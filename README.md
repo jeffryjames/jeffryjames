@@ -15,7 +15,7 @@ Data Science Student - **[Loyola College](https://www.loyolacollege.edu/)**
 
 
 I’m currently learning ..
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" /> Deep Learning | Computer Vision <img src="https://image.flaticon.com/icons/png/512/4431/4431898.png">
+-  Deep Learning | Computer Vision <img src="https://image.flaticon.com/icons/png/512/4431/4431898.png" height="35px" width="35px">
 
 ![Jeffry's github stats](https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&hide_border=true&theme=dracula)
 ---
