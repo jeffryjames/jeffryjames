@@ -23,8 +23,8 @@ Data Science Student - **[Loyola College](https://www.loyolacollege.edu/)**
     </td>
     <td align="center">
      
-    <br/>
-    <br/>
+    <br>
+    <br>
       
 ### 🔧 Languages and Tools:
 
