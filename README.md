@@ -15,16 +15,8 @@ Data Science Student - **[Loyola College](https://www.loyolacollege.edu/)**
 
 ![Jeffry's github stats](https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&hide_border=true&theme=dracula)
 ---
-
-<table width="100%"  border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&theme=dracula" />
-    </td>
-    <td align="center">
      
-    <br>
-    <br>
+    
       
 ### 🔧 Languages and Tools:
 
