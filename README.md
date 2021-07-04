@@ -48,7 +48,8 @@ I’m currently learning ..
 
 
 <br><br><br><br>
-https://image.flaticon.com/icons/png/512/2881/2881142.png
+<img src="https://image.flaticon.com/icons/png/512/2881/2881142.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+
 
 
         
