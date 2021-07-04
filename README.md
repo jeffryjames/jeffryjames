@@ -1,6 +1,19 @@
 
-### Hi there 👋
+### Hey 👋, I'm [Jeffry James]() 👨‍💻
 
+
+
+Data Science Student - **[Loyola College](https://www.loyolacollege.edu/)** 
+
+
+
+### About me :eyes:
+
+- :dart: Data Analytics | Machine learning | Deep learning | Python | Computer vision | Matlab simulation   
+- :heart: Open source contributor at **[DevIncept](https://devincept.codes/contribute.html)**
+- :e-mail: Contact  **[jeffryjamesh@gmail.com](jeffryjamesh@gmail.com)**
+
+![Jeffry's github stats](https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&hide_border=true)
 ---
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
@@ -10,8 +23,9 @@
     </td>
     <td align="center">
      
-<br>
-<br>
+    <br/>
+    <br/>
+      
 ### 🔧 Languages and Tools:
 
 <table>
@@ -57,9 +71,7 @@
     <img align="left" alt="Jeffry | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
  
-  <a href="mailto:jeffryjamesh@gmail.com">
-    <img align="left" alt="Jeffry James | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+  
 
 
 
