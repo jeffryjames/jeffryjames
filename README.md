@@ -13,7 +13,7 @@ Data Science Student - **[Loyola College](https://www.loyolacollege.edu/)**
 - :heart: Open source contributor at **[DevIncept](https://devincept.codes/contribute.html)**
 - :e-mail: Contact  **[jeffryjamesh@gmail.com](jeffryjamesh@gmail.com)**
 
-![Jeffry's github stats](https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&hide_border=true)
+![Jeffry's github stats](https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&hide_border=true&theme=dracula)
 ---
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
