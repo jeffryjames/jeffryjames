@@ -21,9 +21,6 @@ I’m currently learning ..
 
 <br><br><br><br>
 
-## [My Portfolio](jeffryjames.github.io) ✨
-
-<br><br><br><br>
 
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffryjames&repo=TensorFlow-Course&theme=radical "TensorFlow-Course")](https://github.com/jeffryjames/TensorFlow-Course)
@@ -38,8 +35,10 @@ PYTHON | MYSQL | HTML | CSS | BOOSTRAP | GITHUB | VS CODE | SLACK |
   
 
  <a href="https://www.linkedin.com/in/jeffryjames/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
- <a href="https://github.com/jeffryjames" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="jeffryjames.github.io" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+ 
+ <a href="https://github.com/jeffryjames?tab=repositories" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
+ 
+<a href="https://jeffryjames.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
   
 
 
