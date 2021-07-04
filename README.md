@@ -31,9 +31,9 @@ I’m currently learning ..
       
 ### 🔧 Languages and Tools:
 
-<img src="<img src="https://img.icons8.com/color/50/000000/python--v1.png"/>" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="<img src="https://img.icons8.com/cute-clipart/50/000000/machine-learning.png"/>" alt="Machine Learning" height="40" style="vertical-align:top; margin:4px">
-<img src="<img src="https://img.icons8.com/clouds/50/000000/learning.png"/>" alt="Deep Learning" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/50/000000/python--v1.png"/>"               alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/cute-clipart/50/000000/machine-learning.png"/>"  alt="Machine Learning" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/clouds/50/000000/learning.png"/>"                alt="Deep Learning" height="40" style="vertical-align:top; margin:4px">
 
 
   
