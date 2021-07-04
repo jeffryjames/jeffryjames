@@ -19,7 +19,7 @@ I’m currently learning ..
 
 <br>
 
-![Jeffry's github stats](https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&hide_border=true&theme=dracula)
+![github stats](https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&hide_border=true&theme=dracula)
 ---
 
 ### 👀 Active Repo
