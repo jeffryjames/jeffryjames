@@ -31,7 +31,7 @@ I’m currently learning ..
 #### TECH STACK
 
 PYTHON | MYSQL | HTML | CSS | BOOSTRAP | GITHUB | VS CODE | SLACK |              
-
+{{ python }}
 <br>
   
 
