@@ -13,8 +13,9 @@ Data Science Student - **[Loyola College](https://www.loyolacollege.edu/)**
 - :heart: Open source contributor at **[DevIncept](https://devincept.codes/contribute.html)**
 - :e-mail: Reach me at  **[jeffryjamesh@gmail.com](jeffryjamesh@gmail.com)**
 
+
 I’m currently learning ..
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" /> Deep Learning | Computer Vision
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" /> Deep Learning | Computer Vision <img src="https://gfycat.com/ashamedweightydachshund">
 
 ![Jeffry's github stats](https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&hide_border=true&theme=dracula)
 ---
