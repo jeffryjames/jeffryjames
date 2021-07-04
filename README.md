@@ -2,10 +2,9 @@
 ### Hey 👋, I'm [Jeffry James]() <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
 
-<br>
 Data Science Student - **[Loyola College](https://www.loyolacollege.edu/)** 
 
-<br>
+
 
 ### About me :eyes:
 
