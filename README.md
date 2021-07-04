@@ -21,6 +21,7 @@ I’m currently learning ..
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&hide_border=true&theme=dracula)
 ---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeffryjames)](https://git.io/streak-stats)
 
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffryjames&repo=TensorFlow-Course&theme=dracula "TensorFlow-Course")](https://github.com/jeffryjames/TensorFlow-Course)
