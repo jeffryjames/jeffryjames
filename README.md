@@ -29,8 +29,6 @@ I’m currently learning ..
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffryjames&repo=Machine_Learning&theme=dracula "Machine_Learning")](https://github.com/jeffryjames/Machine_Learning)
 
 
-<br>
-
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffryjames)](https://github.com/jeffryjames/github-readme-stats)
 <br>
 
