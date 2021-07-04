@@ -28,21 +28,18 @@ I’m currently learning ..
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffryjames&repo=TensorFlow-Course&theme=radical "TensorFlow-Course")](https://github.com/jeffryjames/TensorFlow-Course)
 
-      
-### 🔧 Languages and Tools:
+<br><br><br><br>
 
-<img src="https://img.icons8.com/color/50/000000/python--v1.png"/>            
-<img src="https://img.icons8.com/cute-clipart/50/000000/machine-learning.png"/>  
-<img src="https://img.icons8.com/clouds/50/000000/learning.png"/>              
+#### TECH STACK
 
+PYTHON | MYSQL | HTML | CSS | BOOSTRAP | GITHUB | VS CODE | SLACK |              
 
+<br><br><br><br>
   
 
-      
-<a href="https://www.linkedin.com/in/jeffryjames/">
-    <img align="left" alt="Jeffry | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a>
- 
+ <a href="https://www.linkedin.com/in/jeffryjames/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+ <a href="https://github.com/jeffryjames" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
+<a href="jeffryjames.github.io" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
   
 
 
