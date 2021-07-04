@@ -21,7 +21,6 @@ I’m currently learning ..
 
 ![Jeffry's github stats](https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&hide_border=true&theme=dracula)
 ---
-<br>
 
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffryjames&repo=TensorFlow-Course&theme=dracula "TensorFlow-Course")](https://github.com/jeffryjames/TensorFlow-Course)
@@ -29,7 +28,7 @@ I’m currently learning ..
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffryjames&repo=Machine_Learning&theme=dracula "Machine_Learning")](https://github.com/jeffryjames/Machine_Learning)
 
 
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffryjames)](https://github.com/jeffryjames/github-readme-stats)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffryjames&theme=dracula)](https://github.com/jeffryjames/github-readme-stats)
 <br>
 
 #### TECH STACK
