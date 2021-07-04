@@ -2,10 +2,10 @@
 ### Hey 👋, I'm [Jeffry James]() <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
 
-
+<br>
 Data Science Student - **[Loyola College](https://www.loyolacollege.edu/)** 
 
-
+<br>
 
 ### About me :eyes:
 
@@ -13,24 +13,27 @@ Data Science Student - **[Loyola College](https://www.loyolacollege.edu/)**
 - :heart: Open source contributor at **[DevIncept](https://devincept.codes/contribute.html)**
 - :e-mail: Reach me at  **[jeffryjamesh@gmail.com](jeffryjamesh@gmail.com)**
 
+<br>
 
 I’m currently learning ..
--  Deep Learning | Computer Vision <img src="https://image.flaticon.com/icons/png/512/4431/4431898.png" height="35px" width="35px">
+-  Deep Learning | Computer Vision <img src="https://image.flaticon.com/icons/png/512/4431/4431898.png" height="35px" width="35px" >
+
+<br>
 
 ![Jeffry's github stats](https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&hide_border=true&theme=dracula)
 ---
-<br><br><br><br>
+<br>
 
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffryjames&repo=TensorFlow-Course&theme=radical "TensorFlow-Course")](https://github.com/jeffryjames/TensorFlow-Course)
 
-<br><br><br><br>
+<br>
 
 #### TECH STACK
 
 PYTHON | MYSQL | HTML | CSS | BOOSTRAP | GITHUB | VS CODE | SLACK |              
 
-<br><br><br><br>
+<br>
   
 
  <a href="https://www.linkedin.com/in/jeffryjames/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a> 
