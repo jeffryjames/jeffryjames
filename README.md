@@ -24,14 +24,20 @@ I’m currently learning ..
 <br>
 
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffryjames&repo=TensorFlow-Course&theme=radical "TensorFlow-Course")](https://github.com/jeffryjames/TensorFlow-Course)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffryjames&repo=TensorFlow-Course&theme=dracula "TensorFlow-Course")](https://github.com/jeffryjames/TensorFlow-Course)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffryjames&repo=Machine_Learning&theme=dracula "Machine_Learning")](https://github.com/jeffryjames/Machine_Learning)
+
+
+<br>
+
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffryjames)](https://github.com/jeffryjames/github-readme-stats)
 <br>
 
 #### TECH STACK
 
 PYTHON | MYSQL | HTML | CSS | BOOSTRAP | GITHUB | VS CODE | SLACK |              
-{{ python }}
+
 <br>
   
 
