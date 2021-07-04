@@ -1,5 +1,5 @@
 
-### Hey 👋, I'm [Jeffry James]() 👨‍💻
+### Hey 👋, I'm [Jeffry James]() 👨‍💻<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
 
 
@@ -13,10 +13,14 @@ Data Science Student - **[Loyola College](https://www.loyolacollege.edu/)**
 - :heart: Open source contributor at **[DevIncept](https://devincept.codes/contribute.html)**
 - :e-mail: Contact  **[jeffryjamesh@gmail.com](jeffryjamesh@gmail.com)**
 
+I’m currently learning ..
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" /> Machine Learning
+
 ![Jeffry's github stats](https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&hide_border=true&theme=dracula)
 ---
      
-    
+## [My Portfolio](jeffryjames.github.io) ✨
+
       
 ### 🔧 Languages and Tools:
 
@@ -31,15 +35,7 @@ Data Science Student - **[Loyola College](https://www.loyolacollege.edu/)**
       <td>
          <img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
       </td>
-      <td>
-         <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-      </td>
-      <td>
-         <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-      </td>
-      <td>
-         <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-      </td>
+      
       <td>
          <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
       </td>
@@ -52,9 +48,7 @@ Data Science Student - **[Loyola College](https://www.loyolacollege.edu/)**
       <td>
          <img align="left" alt="Windows Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
       </td>
-      <td>
-         <h4>WSL2</h4>
-      </td>
+     
    </tr>
 </table>
 
