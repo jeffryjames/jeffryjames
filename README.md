@@ -24,9 +24,9 @@ I’m currently learning ..
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeffryjames)](https://git.io/streak-stats)
 
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffryjames&repo=TensorFlow-Course&theme=dracula "TensorFlow-Course")](https://github.com/jeffryjames/TensorFlow-Course)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffryjames&repo=Machine_Learning&theme=dracula "Machine_Learning")](https://github.com/jeffryjames/Machine_Learning)
+![Jeffry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&theme=radical)
+&nbsp;![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeffryjames&theme=dark&hide_border=true&sideLabels=BDC773&sideNums=67DDA5&stroke=5CDD79&background=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffryjames&layout=compact&theme=dark)
 
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffryjames&theme=dracula)](https://github.com/jeffryjames/github-readme-stats)
