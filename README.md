@@ -21,20 +21,18 @@ I’m currently learning ..
 
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeffryjames)](https://git.io/streak-stats)
 
 ### 👀 Active Repo
 ![Jeffry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&theme=radical)
-&nbsp;![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeffryjames&hide_border=true&sideLabels=BDC773&sideNums=67DDA5&stroke=5CDD79&background=000000)
+&nbsp;
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeffryjames&theme=dracula&hide_border=true&sideLabels=BDC773&sideNums=67DDA5&stroke=5CDD79&background=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffryjames&layout=compact&theme=dracula)
 
 
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffryjames&theme=dracula)](https://github.com/jeffryjames/github-readme-stats)
-<br>
 
-#### TECH STACK
+#### TECH STACK ## - Languages & Tools 
 
-PYTHON | MYSQL | HTML | CSS | BOOSTRAP | GITHUB | VS CODE | SLACK |              
+PYTHON | MYSQL | HTML | CSS | BOOSTRAP | GITHUB | VS CODE | SLACK | ANDROID STUDIO |              
 
 <br>
   
@@ -45,13 +43,8 @@ PYTHON | MYSQL | HTML | CSS | BOOSTRAP | GITHUB | VS CODE | SLACK |
   
 
 
+<br><br>
 
-<br><br><br><br>
-
-
-
-
-        
 
 ⭐️ From [jeffryjames](https://github.com/jeffryjames)
 
