@@ -19,14 +19,14 @@ I’m currently learning ..
 
 <br>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&hide_border=true&theme=dracula)
+
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeffryjames)](https://git.io/streak-stats)
 
 ### 👀 Active Repo
 ![Jeffry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffryjames&show_icons=true&theme=radical)
-&nbsp;![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeffryjames&theme=dark&hide_border=true&sideLabels=BDC773&sideNums=67DDA5&stroke=5CDD79&background=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffryjames&layout=compact&theme=dark)
+&nbsp;![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeffryjames&hide_border=true&sideLabels=BDC773&sideNums=67DDA5&stroke=5CDD79&background=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffryjames&layout=compact&theme=dracula)
 
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffryjames&theme=dracula)](https://github.com/jeffryjames/github-readme-stats)
