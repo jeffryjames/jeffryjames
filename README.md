@@ -3,7 +3,8 @@
 
 
 Data Science Student - **[Loyola College](https://www.loyolacollege.edu/)** 
-
+<br>
+![](https://komarev.com/ghpvc/?username=jeffryjames&color=green)
 
 
 ### About me :eyes:
