@@ -18,8 +18,8 @@ Data Science Student - **[Loyola College](https://www.loyolacollege.edu/)**
 I’m currently learning ..
 -  Deep Learning | Computer Vision <img src="https://image.flaticon.com/icons/png/512/4431/4431898.png" height="35px" width="35px" >
 
-<br>
 
+<br>
 
 ---
 
@@ -29,7 +29,16 @@ I’m currently learning ..
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeffryjames&theme=dracula&hide_border=true&sideLabels=BDC773&sideNums=67DDA5&stroke=5CDD79&background=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffryjames&layout=compact&theme=dracula)
 
+<details><summary>Contribution Graph</summary>
+<p align="left">
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=jeffryjames&theme=xcode" /></p>
+</details>
 
+
+<details><summary>Trophies</summary>
+<p align="left">
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=jeffryjames&column=7&theme=gruvbox&no-frame=true"/>
+</details>
 
 #### TECH STACK ## - Languages & Tools 
 
